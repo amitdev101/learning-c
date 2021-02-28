@@ -4,4 +4,5 @@
 
 3. Defining library function in "myheaderfile_funcdef.c" file
 
-4. 
+4. Using main.c file to access myheaderfile.h defined functions.
+

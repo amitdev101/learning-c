@@ -1,0 +1,13 @@
+we include our "myheaderfile_funcdef.c" in args in tasks.json file to get automatically build and test by gcc
+otherwise I have to give command as "gcc main.c myheaderfile_funcdef.c" 
+and then "./a.out" 
+
+You can set other variables also :
+    For example I want to set $DISPLAY variable.
+    so I will modify my launch.json file and in configuration I'll add the following var name
+    "env": [{
+        "DISPLAY" : "localhost:10.0"
+    }],
+
+    ## done ##
+

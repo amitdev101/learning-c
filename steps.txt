@@ -1,0 +1,7 @@
+1. Making a hello world to test the program
+
+2. Making a library file "myheaderfile.h"
+
+3. Defining library function in "myheaderfile_funcdef.c" file
+
+4. 
